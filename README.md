@@ -1,4 +1,13 @@
-<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%A8%F0%9F%92%BB+I+am+Fahad+Ali" alt="Typing SVG" /> </a> </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%91%8B+Hi+There!;%F0%9F%91%A8%F0%9F%92%BB+I+am+Fahad+Ali"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
 # About Me:
 I am a motivated and skilled Software Engineering undergraduate currently pursuing my BS in Software Engineering from Arid Agriculture University. I have strong technical expertise in web development, database administration, and software debugging, with hands-on experience in building responsive websites and fixing complex bugs and errors.<br><br>I actively work as a freelance web developer on Fiverr and Upwork, where I deliver high-quality solutions to clients, focusing on performance, functionality, and user experience. My practical exposure has strengthened my problem-solving abilities and real-world development skills.<br><br>In addition to my academic and freelance work, I have earned certifications in Web Development and Database Administration, further enhancing my technical foundation. I am also proud to be a position holder in my department, reflecting my dedication, consistency, and academic excellence.<br><br>I am passionate about learning new technologies and aim to grow as a professional software engineer while delivering impactful digital solutions.
 
