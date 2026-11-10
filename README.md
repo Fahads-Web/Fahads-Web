@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=900&color=00C4FF&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Hi+There!+%F0%9F%91%8B;I+am+Fahad+Ali;Software+Engineer+%7C+Full+Stack+Developer;MERN+Stack+%7C+DevOps+Engineer)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&animation=fadeIn" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=900&color=00C4FF&center=true&vCenter=true&repeat=true&width=1000&height=70&lines=Hi+There!+%F0%9F%91%8B;I+am+Fahad+Ali;Software+Engineer+%7C+Full+Stack+Developer+%7C+DevOps+Engineer;MERN+Stack+Developer)](https://git.io/typing-svg)
 
 ### Software Engineer | Full Stack Developer | DevOps Engineer
 
@@ -18,23 +20,29 @@
 
 </div>
 
-## 👨‍💻 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=400&height=45&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
+</h2>
 
 I am a Software Engineer and Full Stack Developer with hands-on experience in web development, database administration, DevOps and software debugging.
 
-- 🎓 BS Software Engineering graduate from Arid Agriculture University — CGPA: 3.74/4.0
-- 🏅 Position holder in my department
-- 🌐 MERN Stack Developer building responsive, high-performance web applications
-- ⚙️ DevOps Engineer working with Docker, CI/CD pipelines and cloud platforms
-- 📱 Developed an Android application using Java, XML and Firebase
-- 💼 Freelance developer providing services to clients worldwide through Fiverr and Upwork
-- 🧑‍🎨 Built many personal and client portfolio websites
-- 📜 Holder of certifications in Web Development and Database Administration
-- 📍 Based in Rawalpindi, Pakistan
+• 🎓 BS Software Engineering graduate from Arid Agriculture University — CGPA: 3.74/4.0<br>
+• 🏅 Position holder in my department<br>
+• 🌐 MERN Stack Developer building responsive, high-performance web applications<br>
+• ⚙️ DevOps Engineer working with Docker, CI/CD pipelines and cloud platforms<br>
+• 📱 Developed an Android application using Java, XML and Firebase<br>
+• 💼 Freelance developer providing services to clients worldwide through Fiverr and Upwork<br>
+• 🧑‍🎨 Built many personal and client portfolio websites<br>
+• 📜 Holder of certifications in Web Development and Database Administration<br>
+• 📍 Based in Rawalpindi, Pakistan<br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Technical Skills
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%9B%A0%EF%B8%8F+Technical+Skills" alt="Technical Skills" />
+</h2>
 
 ### Programming Languages
 
@@ -107,9 +115,11 @@ I am a Software Engineer and Full Stack Developer with hands-on experience in we
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Project
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%9A%80+Featured+Project" alt="Featured Project" />
+</h2>
 
 ### 🏥 GenAI-Driven Clinical Support System
 
@@ -117,32 +127,34 @@ A web-based healthcare platform built as my Final Year Project for the BS Softwa
 
 The system includes:
 
-- Multilingual chatbot that answers health-related questions in simple language
-- Medical report analyzer: patients upload PDF lab reports and receive simplified explanations, highlighted abnormal values and an urgency level (routine, moderate or urgent)
-- Question and answer feature for asking about a specific uploaded report, with personalized next steps
-- Doctor listing and appointment booking with real-time availability checks to prevent double bookings
-- Online payment flow for appointments
-- Separate dashboards for patients, doctors and administrators with JWT authentication and role-based access control
-- Admin panel for managing doctors and monitoring appointments, with Day/Night theme support
-- Frontend deployed on Vercel and backend deployed on Render
+• Multilingual chatbot that answers health-related questions in simple language<br>
+• Medical report analyzer: patients upload PDF lab reports and receive simplified explanations, highlighted abnormal values and an urgency level (routine, moderate or urgent)<br>
+• Question and answer feature for asking about a specific uploaded report, with personalized next steps<br>
+• Doctor listing and appointment booking with real-time availability checks to prevent double bookings<br>
+• Online payment flow for appointments<br>
+• Separate dashboards for patients, doctors and administrators with JWT authentication and role-based access control<br>
+• Admin panel for managing doctors and monitoring appointments, with Day/Night theme support<br>
+• Frontend deployed on Vercel and backend deployed on Render<br>
 
 **Technologies:** MongoDB, Express.js, React.js, Node.js, Tailwind CSS, JWT, REST APIs, LLM API integration, Python (FastAPI), Docker, GitHub Actions and Postman
 
 **Developed by:** Muhammad Abubakar Aziz, Fahad Ali and Sajal Asghar, under the supervision of Ms. Sadia Zar
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📬 Connect With Me
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%93%AC+Connect+With+Me" alt="Connect With Me" />
+</h2>
 
-- **LinkedIn:** [linkedin.com/in/fahadalijanjua](https://www.linkedin.com/in/fahadalijanjua/)
-- **GitHub:** [github.com/Fahads-Web](https://github.com/Fahads-Web)
-- **Email:** [fahadjanjua991@gmail.com](mailto:fahadjanjua991@gmail.com)
-- **Location:** Rawalpindi, Pakistan
-
----
+• **LinkedIn:** [linkedin.com/in/fahadalijanjua](https://www.linkedin.com/in/fahadalijanjua/)<br>
+• **GitHub:** [github.com/Fahads-Web](https://github.com/Fahads-Web)<br>
+• **Email:** [fahadjanjua991@gmail.com](mailto:fahadjanjua991@gmail.com)<br>
+• **Location:** Rawalpindi, Pakistan<br>
 
 <div align="center">
 
-### Building reliable, scalable and user-focused web solutions.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=00C4FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Building+reliable%2C+scalable+and+user-focused+web+solutions.)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
 </div>
