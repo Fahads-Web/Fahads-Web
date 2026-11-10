@@ -5,7 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=900&color=00C4FF&center=true&vCenter=true&repeat=true&width=1000&height=70&lines=Hi+There!+%F0%9F%91%8B;I+am+Fahad+Ali;Software+Engineer+%7C+Full+Stack+Developer+%7C+DevOps+Engineer;MERN+Stack+Developer)](https://git.io/typing-svg)
 
 ### Software Engineer | Full Stack Developer | DevOps Engineer
-
+ <a href="https://fahadali-tech.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-00C4FF?style=for-the-badge" alt="My Portfolio"/>
+  </a>
+  
 <a href="https://www.linkedin.com/in/fahadalijanjua/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -149,6 +152,7 @@ The system includes:
 • **LinkedIn:** [linkedin.com/in/fahadalijanjua](https://www.linkedin.com/in/fahadalijanjua/)<br>
 • **GitHub:** [github.com/Fahads-Web](https://github.com/Fahads-Web)<br>
 • **Email:** [fahadjanjua991@gmail.com](mailto:fahadjanjua991@gmail.com)<br>
+• **Portfolio:** [[fahadjanjua991@gmail.com](https://fahadali-tech.netlify.app/)<br>
 • **Location:** Rawalpindi, Pakistan<br>
 
 <div align="center">
