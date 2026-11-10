@@ -152,7 +152,7 @@ The system includes:
 • **LinkedIn:** [linkedin.com/in/fahadalijanjua](https://www.linkedin.com/in/fahadalijanjua/)<br>
 • **GitHub:** [github.com/Fahads-Web](https://github.com/Fahads-Web)<br>
 • **Email:** [fahadjanjua991@gmail.com](mailto:fahadjanjua991@gmail.com)<br>
-• **Portfolio:** [[fahadjanjua991@gmail.com](https://fahadali-tech.netlify.app/)<br>
+• **Portfolio:** [fahadali-tech.netlify.app](https://fahadali-tech.netlify.app/)<br>
 • **Location:** Rawalpindi, Pakistan<br>
 
 <div align="center">
